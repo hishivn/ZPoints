@@ -1,0 +1,4 @@
+name: ZPoints
+version: '${project.version}'
+main: hishs.addons.zpoints.ZPoint
+api-version: '1.20'
